@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8850187400030.jpg",
+    "productName": "ข้าวสารตราฉัตร",
+    "productPrice": "235",
+    "productQuantity": "35",
+    "productType": "ข้าวสาร"
+  },
+  {
+    "id": "2",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8850154051050_2.jpg",
+    "productName": "น้ำมันพืชตรามรกต",
+    "productPrice": "60",
+    "productQuantity": "50",
+    "productType": "น้ำมันพืช"
+  },
+  {
+    "id": "3",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8850256100106.jpg",
+    "productName": "น้ำตาลทรายขาวมิตรผล",
+    "productPrice": "22",
+    "productQuantity": "20",
+    "productType": "เครื่องปรุง"
+  },
+  {
+    "id": "4",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8850511121266.jpg",
+    "productName": "ปลากระป๋องโรซ่า",
+    "productPrice": "19",
+    "productQuantity": "45",
+    "productType": "อาหารกระป๋อง"
+  },
+  {
+    "id": "5",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8852537011262_1_1.jpg",
+    "productName": "นมไทย-เดนมาร์ค",
+    "productPrice": "65",
+    "productQuantity": "30",
+    "productType": "เครื่องดื่ม"
+  },
+  {
+    "id": "6",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8850987101199_4.jpg",
+    "productName": "บะหมี่กึ่งสำเร็จรูปมาม่า",
+    "productPrice": "58",
+    "productQuantity": "60",
+    "productType": "บะหมี่กึ่งสำเร็จรูป"
+  },
+  {
+    "id": "7",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8850035030419_3.jpg",
+    "productName": "ผักกาดดองสามรสกระป๋องตรานกพิราบ",
+    "productPrice": "21",
+    "productQuantity": "55",
+    "productType": "อาหารกระป๋อง"
+  },
+  {
+    "id": "8",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8850144207924_1_3.jpg",
+    "productName": "โจ๊กข้าวหอมมะลิกึ่งสำเร็จรูปคนอร์ คัพโจ๊ก",
+    "productPrice": "57",
+    "productQuantity": "20",
+    "productType": "อาหารแห้ง"
+  },
+  {
+    "id": "9",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8851012011315_5.jpg",
+    "productName": "ครีมเทียมข้นหวานคาร์เนชัน",
+    "productPrice": "23",
+    "productQuantity": "12",
+    "productType": "เครื่องดื่ม"
+  },
+  {
+    "id": "10",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8851959143179_1_2.jpg",
+    "productName": "น้ำอัดลมน้ำแดงแฟนต้า",
+    "productPrice": "25",
+    "productQuantity": "20",
+    "productType": "เครื่องดื่ม"
+  },
+  {
+    "id": "11",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8850372000397_3.jpg",
+    "productName": "วุ้นเส้นต้นสนแพ็ก 10",
+    "productPrice": "91",
+    "productQuantity": "35",
+    "productType": "อาหารแห้ง"
+  },
+  {
+    "id": "12",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8851727003056_4.jpg",
+    "productName": "ขนมข้าวโพดกรอบคอนเน่",
+    "productPrice": "20",
+    "productQuantity": "50",
+    "productType": "ขนมขบเคี้ยว"
+  },
+  {
+    "id": "13",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8851727002059.jpg",
+    "productName": "มันฝรั่งกรอบปาปริก้า",
+    "productPrice": "20",
+    "productQuantity": "55",
+    "productType": "ขนมขบเคี้ยว"
+  },
+  {
+    "id": "14",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8850718801121_8.jpg",
+    "productName": "มันฝรั่งแท้ทอดเลย์ ร็อค",
+    "productPrice": "29",
+    "productQuantity": "40",
+    "productType": "ขนมขบเคี้ยว"
+  },
+  {
+    "id": "15",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8851727001052.jpg",
+    "productName": "มันฝรั่งกรอบโปเต้",
+    "productPrice": "20",
+    "productQuantity": "25",
+    "productType": "ขนมขบเคี้ยว"
+  },
+  {
+    "id": "16",
+    "productImage": "https://static.bigc.co.th/media/catalog/product/8/8/8850128030074_7.jpg",
+    "productName": "กาแฟคั่วบดเนสกาแฟ",
+    "productPrice": "198",
+    "productQuantity": "20",
+    "productType": "กาแฟ"
+  }
+]
